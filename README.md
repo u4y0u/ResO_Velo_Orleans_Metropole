@@ -83,6 +83,6 @@ Un nouvel appuie relance le suivi et le centrage et recommence le cycle.
 
 Pour effacer le tracé de votre parcours à la fin de l'utilisation ou pour effectuer un nouveau trajet, il suffit de recharger le projet (.ZIP) après avoir fermé puis relancé l'application, toujours via le menu 'Ouvrir un fichier local ,puis '+', puis 'importer depuis le projet ZIP', puis en cliquant sur le fichier 'ResOvelo_OM_VE.zip', et enfin valider en choisisant 'IMPORTER ET ECRASER' puis le clic sur le projet pour le relancer et ✅️
 
-![Importer](MD/30.jpg "Importer et ecraser")
+![Importer](MD/30-importer.jpg "Importer et ecraser")
 
 
