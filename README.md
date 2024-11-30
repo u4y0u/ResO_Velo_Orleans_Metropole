@@ -1,8 +1,10 @@
 # Res'O Vélo Orléans Métropole
 
-'ResOvelo_OM_VE.zip' est un fichier de projet pour l'application [QField](https://qfield.org/) qui vous permetra de suivre un des différents itinéraires des propositions d’aménagements pour le Rés’O Vélo Orléans Métropole de l'association [DAMMO](https://www.dammo.fr/r%C3%A9so-v%C3%A9lo) sur votre smartphone avec un positionnement automatique sur l'écran, le niveau de zoom et l'orientation que vous désirez, ainsi que le choix du fond de carte OpenStreetMap ou Topo.
+'ResOvelo_OM_VE.zip' est un fichier de projet pour l'application [QField](https://qfield.org/) qui vous permetra de suivre les différents itinéraires des propositions d’aménagements pour le Rés’O Vélo Orléans Métropole de l'association [DAMMO](https://www.dammo.fr/r%C3%A9so-v%C3%A9lo) sur votre smartphone avec un positionnement automatique sur l'écran, le niveau de zoom et l'orientation que vous désirez, ainsi que le choix du fond de carte OpenStreetMap ou Topo.
+
 Un tracé de la route empruntée peut être affichée aussi en bleu par dessus les tracés existants.
-Les fond de carte sont affichés 'en ligne' avec une connexion internet active consommant peu de données.
+
+Les fonds de carte sont affichés 'en ligne' avec une connexion internet active consommant peu de données.
 
 ## Utilisation du projet ResOvelo_OM_VE avec l'application QField pour smartphone.
 
