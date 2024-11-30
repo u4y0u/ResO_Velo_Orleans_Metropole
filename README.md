@@ -37,10 +37,12 @@ Se déplacer dans le dossier ou est stocké le fichier téléchargé  'ResOvelo_
 
 ![Choisir le fichier du projet](MD/05.jpg "Choisir le fichier du projet")
 
-Le projet s'affiche avec les couches composant les Jeux de données
+Le projet s'affiche avec les couches composant les Jeux de données.
+Cliquez sur le nom du projet 'Res'OVélo Orléans Métropole- Version publique évolutive'
+
 ![affichage du projet](MD/06.jpg "affichage du projet et des couches")
 
-Valider en haut à gauche avec ✅️
+L'écran suivant est la couche GPS point. Il suffit de valider en haut à gauche avec ✅️
 
 ![Valider](MD/07.jpg "Valider")
 
