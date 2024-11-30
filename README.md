@@ -1,8 +1,10 @@
 # Res'O Vélo Orléans Métropole
 
 ## Utilisation du projet ResOvelo_OM_VE avec l'application QField pour smartphone.
+Télécharger le fichier du projet ![ici](ResOvelo_OM_VE.zip)
 
 ### Première utilisation - installation du fichier du projet dans l'application QField.
+
 Lancer QField:
 
 ![icône QField](MD/01-icone_QField.jpg "icône QField")
@@ -11,7 +13,8 @@ Utiliser le bouton 'Ouvrir un fichier local':
 
 ![Ouvrir](MD/02.jpg "Ouvrir un fichier local")
 
-Utiliser le bouton '+' en bas à droite...
+Utiliser le bouton vert '+' en bas à droite pour choisir le projet à importer ...
+
 ![Bouton +](MD/03.jpg "Utiliser le bouton +")
 
 Choisir Importer depuis le ZIP dans le menu 
