@@ -38,7 +38,7 @@ Se déplacer dans le dossier ou est stocké le fichier téléchargé  'ResOvelo_
 ![Choisir le fichier du projet](MD/05.jpg "Choisir le fichier du projet")
 
 Le projet s'affiche avec les couches composant les Jeux de données.
-Cliquez sur le nom du projet 'Res'OVélo Orléans Métropole- Version publique évolutive'
+Cliquez sur le nom du projet 'Res'OVélo Orléans Métropole - Version publique évolutive'
 
 ![affichage du projet](MD/06.jpg "affichage du projet et des couches")
 
@@ -81,6 +81,8 @@ Un nouvel appuie relance le suivi et le centrage et recommence le cycle.
 
 ![bouton GPS](MD/20.jpg "Bouton GPS et boussole")
 
+Pour effacer le tracé de votre parcours à la fin de l'utilisation ou pour effectuer un nouveau trajet, il suffit de recharger le projet (.ZIP) après avoir fermé puis relancé l'application, toujours via le menu 'Ouvrir un fichier local ,puis '+', puis 'importer depuis le projet ZIP', puis en cliquant sur le fichier 'ResOvelo_OM_VE.zip', et enfin valider en choisisant 'IMPORTER ET ECRASER' puis le clic sur le projet pour le relancer et ✅️
 
+![Importer](MD/30.jpg "Importer et ecraser")
 
 
