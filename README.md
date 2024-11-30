@@ -6,6 +6,8 @@ Un tracé de la route empruntée peut être affichée aussi en bleu par dessus l
 
 Les fonds de carte sont affichés 'en ligne' avec une connexion internet active consommant peu de données.
 
+![Res'O vélo QField](MD/00.jpg "Res'O vélo sur QField")
+
 ## Utilisation du projet ResOvelo_OM_VE avec l'application QField pour smartphone.
 
 Télécharger le fichier du projet ![ici](ResOvelo_OM_VE.zip) en utilisant le bouton 'download raw file' à droite de la ligne.
