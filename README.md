@@ -15,7 +15,7 @@ Le fichier 'ResOvelo_OM_VE.zip' ne fait que quelques dizaines de Ko.
 
 ### Première utilisation - installation du fichier du projet dans l'application QField.
 
-Lancer QField:
+Télécharger QField sur votre store et lancer QField:
 
 ![icône QField](MD/01-icone_QField.jpg "icône QField")
 
@@ -77,7 +77,6 @@ Un nouvel appuie relance le suivi et le centrage et recommence le cycle.
 
 ![bouton GPS](MD/20.jpg "Bouton GPS et boussole")
 
-![QField sur Play Store Android](https://play.google.com/store/apps/details?id=ch.opengis.qfield)
 
 
 
