@@ -27,6 +27,8 @@ Utiliser le bouton 'Ouvrir un fichier local':
 
 Utiliser le bouton vert '+' en bas à droite pour choisir le projet précédemment téléchargé à importer ...
 
+![Bouton +](MD/21.jpg "Utiliser le bouton +")
+
 ![Bouton +](MD/03.jpg "Utiliser le bouton +")
 
 Choisir Importer depuis le ZIP dans le menu 
