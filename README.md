@@ -7,10 +7,11 @@ Un tracé de la route empruntée peut être affichée aussi en bleu par dessus l
 Les fonds de carte sont affichés 'en ligne' avec une connexion internet active consommant peu de données.
 
 ![Res'O vélo QField](MD/00.jpg "Res'O vélo sur QField")
+![Res'O vélo version M12](MD/00-M12.jpg "Res'O vélo avec M12")
 
 ## Utilisation du projet ResOvelo_OM_VE avec l'application QField pour smartphone.
 
-Télécharger le fichier du projet ![ici](ResOvelo_OM_VE.zip) en utilisant le bouton 'download raw file' à droite de la ligne.
+Télécharger le fichier du projet classique ![ici](ResOvelo_OM_VE.zip) ou la version avec les panneaux M12 ![ici](ResOvelo_OM_VE-M12.zip) en utilisant le bouton 'download raw file' à droite de la ligne.
 Le fichier 'ResOvelo_OM_VE.zip' ne fait que quelques dizaines de Ko.
 
 ![download project](MD/download_project.png "download project")
