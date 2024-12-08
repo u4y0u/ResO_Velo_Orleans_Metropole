@@ -100,3 +100,4 @@ Puis, une fois dans le dossier de projet, se positionner sur la ligne 'couche GP
 
 ![Exporter vers le dossier...](MD/41.jpg "Exporter vers le dossier...")
 
+Le fichier une fois récupéré dans un dossier du smartphone peut être ouvert avec la version Desktop de QGIS sur un pc, puis il suffit d'exporter la couche points au format .gpx (avec l'option GPX_USE_EXTENSION=YES) 
