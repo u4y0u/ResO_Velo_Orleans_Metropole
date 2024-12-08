@@ -88,4 +88,15 @@ Pour effacer le tracé de votre parcours à la fin de l'utilisation ou pour effe
 
 ![Importer](MD/30-importer.jpg "Importer et ecraser")
 
+Pour exporter le tracé du parcours (en bleu) avant de remettre à zéro le parcours, il faut aller dans le menu et choisir le dossier de projet via le bouton Paramètres
+
+![Bouton Menu](MD/40-bouton_Menu.png "Choisir Menu...")
+![Bouton Paramètres](MD/41-bouton_Paramètres.png "Bouton Paramètres...")
+![Dossier de projet](MD/40.jpg "... puis Dossier de projet")
+
+
+Puis, une fois dans le dossier de projet, se positionner sur la ligne 'couche GPS.gpkg' dans le Jeux de données, et dans le menu de fin de ligne sur les trois points, choisir 'Exporter vers le dossier'.
+
+
+![Exporter vers le dossier...](MD/41.jpg "Exporter vers le dossier...")
 
